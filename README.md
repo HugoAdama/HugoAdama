@@ -44,6 +44,18 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
+### 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=HugoAdama&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Hugo Adama" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=HugoAdama&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="165" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <img src="https://streak-stats.demolab.com/?user=HugoAdama&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" height="165" />
+</div>
+
+---
 
 <div align="center">
   <sub>Diseñado con pasión por el código limpio y la arquitectura moderna · Lima, Perú</sub>
