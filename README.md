@@ -1,11 +1,59 @@
+<div align="center">
+  
+  # ¡Hola! Soy Hugo Adama 👋
+  ### Frontend & Full-Stack Developer · Especialista en Rendimiento Web & UI/UX
 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hugo_Adama-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hugoadama)
+  [![Email](https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugoadamadlcruz@gmail.com)
+  [![Location](https://img.shields.io/badge/Lima-Perú_🇵🇪-009640?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hugoadama) 
+---
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+### 🚀 Sobre Mí
 
+- 🔭 **Enfoque actual:** Construyendo plataformas web de alto rendimiento y arquitectura JAMstack ultrarrápida con **Astro**, **TypeScript** y **Tailwind CSS**.
+- 💼 **Experiencia:** Desarrollo de soluciones corporativas B2B, catálogos interactivos, sistemas comerciales y aplicaciones web a medida con enfoque en **Core Web Vitals** y conversión.
+- ⚡ **Filosofía:** Cero código muerto, interfaces limpias, accesibilidad y experiencia de usuario fluida (*Zero-FOUC*).
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### 🛠️ Tech Stack & Herramientas
+
+#### **Frontend & Modern Frameworks**
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript ES6+](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+#### **Backend & Bases de Datos**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+#### **Entorno, Despliegue & Diseño**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HugoAdama&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de Hugo Adama" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoAdama&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="165" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Diseñado con pasión por el código limpio y la arquitectura moderna · Lima, Perú</sub>
+</div>
