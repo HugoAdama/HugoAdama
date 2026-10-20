@@ -1,62 +1,55 @@
 <div align="center">
-  
-  # ¡Hola! Soy Hugo Adama 👋
-  ### Frontend & Full-Stack Developer · Especialista en Rendimiento Web & UI/UX
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hugo_Adama-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hugoadama)
-  [![Email](https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugoadamadlcruz@gmail.com)
-  [![Location](https://img.shields.io/badge/Lima-Perú_🇵🇪-009640?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+# Hugo Adama 👋
+
+### Estudiante de Ingeniería de Sistemas Computacionales
+
+**Desarrollo web · Soluciones digitales para negocios · Lima, Perú 🇵🇪**
+
+[Portafolio](https://hugoadama.dev) ·
+[LinkedIn](https://linkedin.com/in/hugoadama) ·
+[Correo](mailto:hugoadama@outlook.com) ·
+[GitHub](https://github.com/HugoAdama)
 
 </div>
 
 ---
 
-### 🚀 Sobre Mí
+## Sobre mí
 
-- 🔭 **Enfoque actual:** Construyendo plataformas web de alto rendimiento y arquitectura JAMstack ultrarrápida con **Astro**, **TypeScript** y **Tailwind CSS**.
-- 💼 **Experiencia:** Desarrollo de soluciones corporativas B2B, catálogos interactivos, sistemas comerciales y aplicaciones web a medida con enfoque en **Core Web Vitals** y conversión.
-- ⚡ **Filosofía:** Cero código muerto, interfaces limpias, accesibilidad y experiencia de usuario fluida (*Zero-FOUC*).
+Mi experiencia en logística me ayuda a comprender los procesos y necesidades de los negocios. Desarrollo **soluciones corporativas B2B, catálogos interactivos, invitaciones web para bodas y aplicaciones web a medida**.
 
----
+**Enfoque actual:** Construyendo plataformas web de alto rendimiento y arquitectura JAMstack ultrarrápida con **Astro**, **TypeScript** y **Tailwind CSS**.
 
-### 🛠️ Tech Stack & Herramientas
+**Filosofía de diseño:** Cero código muerto, interfaces limpias, accesibilidad y experiencia de usuario fluida (*Zero-FOUC*).
 
-#### **Frontend & Modern Frameworks**
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript ES6+](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+En mis proyectos priorizo el rendimiento y uso **Core Web Vitals** como referencia. Mis proyectos recientes promedian **90/100 en Lighthouse Performance**.
 
-#### **Backend & Bases de Datos**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+También he trabajado con **Python, desarrollo backend, bases de datos, QA y automatización**. Actualmente estudio Ingeniería de Sistemas Computacionales y sigo fortaleciendo mis fundamentos de programación y diseño de software.
 
-#### **Entorno, Despliegue & Diseño**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+## Proyectos destacados
 
----
-### 📊 Estadísticas de GitHub
+| Proyecto | Descripción | Demo |
+|---|---|---|
+| [**Once Upon a Timeline**](https://github.com/HugoAdama/Once_upon_a_Timeline) | Archivo interactivo de TWICE con discografía, cronología y contenido para fans. | [Ver sitio](https://hugoadama.github.io/Once_upon_a_Timeline/) |
+| [**CSS Motion Lab**](https://github.com/HugoAdama/CSS_Motion_Lab) | Laboratorio interactivo para explorar y ajustar animaciones CSS. | [Probar demo](https://hugoadama.github.io/CSS_Motion_Lab/) |
+| [**MiDespensa**](https://github.com/HugoAdama/MiDespensa) | Aplicación tipo PWA para organizar recetas y cocinar, incluso sin conexión. | [Ver sitio](https://hugoadama.github.io/MiDespensa/) |
+| [**Kanban Tableu**](https://github.com/HugoAdama/Kanban_Tableu) | Tablero de tareas con navegación por teclado, varios tableros y funciones para deshacer y rehacer. | [Probar demo](https://hugoadama.github.io/Kanban_Tableu/) |
+| [**BeatNest**](https://github.com/HugoAdama/BeatNest) | Reproductor de audio local con ecualizador y visualizador. | [Probar demo](https://hugoadama.github.io/BeatNest/) |
+| [**Arquitectura Empresarial de TI**](https://github.com/HugoAdama/Arquitectura_Empresarial_TI) | Guía interactiva con módulos de estudio, cuestionarios y un caso práctico. | [Ver sitio](https://hugoadama.github.io/Arquitectura_Empresarial_TI/) |
 
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=HugoAdama&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Hugo Adama" height="165" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=HugoAdama&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="165" />
-</div>
+## Tecnologías y áreas de trabajo
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://streak-stats.demolab.com/?user=HugoAdama&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" height="165" />
-</div>
+**Desarrollo web:** Astro · TypeScript · JavaScript · React · Tailwind CSS · HTML · CSS
+
+**Backend y calidad:** Python · desarrollo backend · bases de datos · QA · automatización
+
+**Despliegue y CI/CD:** Cloudflare Pages · GitHub Pages · GitHub Actions · Vercel
 
 ---
 
 <div align="center">
-  <sub>Diseñado con pasión por el código limpio y la arquitectura moderna · Lima, Perú</sub>
+
+**Aprender · construir · mejorar**
+
 </div>
